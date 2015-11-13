@@ -1,1 +1,2 @@
 This is some information!
+Ceci est une première modification du fichier file1.txt

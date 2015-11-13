@@ -1,1 +1,2 @@
 This is another file!
+Ceci est une première modification du fichier file2.txt
